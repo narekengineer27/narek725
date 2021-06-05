@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narek725
+- 👋 Hi, I’m Narek
 - 👀 I’m interested in web, mobile, and desktop applications development
 - 🌱 I’m currently learning cloud devops
 - 💞️ I’m looking to collaborate on web, mobile, and desktop applications development
