@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ## Narek
+- 👋 Hi, I’m Narek
 - 👀 I’m interested in web, mobile, desktop, and game development - http://narek.is-best.net/
 - 🌱 I’m currently learning cloud devops
 - 💞️ I’m looking to collaborate on web, mobile, and desktop applications development
